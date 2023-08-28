@@ -1,0 +1,2 @@
+[24-Jun-2022 14:17:18 UTC] PHP Notice:  Undefined variable: q in /home/zkynetmy/article-blog.zkynet.my.id/mainconfig.php on line 16
+[24-Jun-2022 14:17:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/zkynetmy/article-blog.zkynet.my.id/mainconfig.php on line 16
